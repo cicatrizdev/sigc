@@ -1,10 +1,10 @@
 # sigc
 ## LP3 - Sistema Interno de Gerenciamento de Chamados <br>
 
-### Dependências:
-* Lombok: https://projectlombok.org/setup/netbeans <br>
-* Node.js LTS: https://nodejs.org/en/download/ <br>
-
+### Instruções:
+* Clone o projeto; <br>
+* Exporte no Netbeans; <br>
+* Rode o projeto para as dependências serem baixadas automaticamente; 
 
 ### Guia pra trabalhar nesse projeto:
 
