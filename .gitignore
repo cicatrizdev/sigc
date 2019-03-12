@@ -46,3 +46,4 @@ chrome-user-data
 .vscode
 *.swp
 *.swo
+/target/
