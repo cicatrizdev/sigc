@@ -1,37 +1,35 @@
 # sigc
 ## LP3 - Sistema Interno de Gerenciamento de Chamados <br>
 
+### Dependências:
+* Lombok: https://projectlombok.org/setup/netbeans <br>
+* Node.js LTS: https://nodejs.org/en/download/ <br>
+
 
 ### Guia pra trabalhar nesse projeto:
 
 * Clonando o repositório (com chave ssh cadastrada)
 
-`git clone git@github.com:cicatrizwp/sigc.git`
+`git clone git@github.com:cicatrizwp/sigc.git` <br>
+`cd sigc`
 
 * Clonando o repositório (sem chave ssh)
 
-`git clone https://github.com/cicatrizwp/sigc.git`
+`git clone https://github.com/cicatrizwp/sigc.git` <br>
+`cd sigc`
 
 * Ponto de partida para modificar o código
 
-`git checkout master`
-
-`git pull --all`
-
-`git checkout -b <nome da nova branch>` (ex.: git checkout -b alteracao1)
-
-`git push --set-upstream origin <nome da nova branch` (ex.: git push --set-upstream origin alteracao 1)
+`git checkout master` <br>
+`git pull --all` <br>
+`git checkout -b <nome da nova branch>` (ex.: git checkout -b alteracao1) <br>
+`git push --set-upstream origin <nome da nova branch>` (ex.: git push --set-upstream origin alteracao 1)
 
 * Após fazer alterações, fazer o merge na master
 
-`git add .`
-
-`git commit -m “descricao das alteracoes”`
-
-`git push`
-
-`git checkout master`
-
-`git pull --all`
-
-`git merge <nome da branch> `
+`git add .` <br>
+`git commit -m “descricao das alteracoes”` <br>
+`git push` <br>
+`git checkout master` <br>
+`git pull --all` <br>
+`git merge <nome da branch>` <br>
