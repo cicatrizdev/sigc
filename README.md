@@ -3,8 +3,11 @@
 
 ### Instruções:
 * Clone o projeto; <br>
-* Exporte no Netbeans; <br>
-* Rode o projeto para as dependências serem baixadas automaticamente; 
+* Importe no Netbeans; <br>
+* Rode o projeto para as dependências serem baixadas automaticamente; <br>
+
+### Depedências pro front:
+* Node.js 10.x + NPM;
 
 ### Guia pra trabalhar nesse projeto:
 
